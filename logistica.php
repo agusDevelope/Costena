@@ -7,6 +7,6 @@
 <?php require_once "componentes/nav.php"; ?>
 <?php require_once "componentes/slide.php"; ?>
 <?php require_once "componentes/logisticaMenu.php"; ?>
-<?php require_once "componentes/footer.php"; ?>
+
 </body>
 </html>

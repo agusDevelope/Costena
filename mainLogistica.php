@@ -25,6 +25,6 @@
         </div>
     </div>
 </div>
-<?php require_once "componentes/footer.php"; ?>
+
 </body>
 </html>

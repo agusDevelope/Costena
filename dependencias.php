@@ -10,6 +10,7 @@
 <link rel="stylesheet" type="text/css" href="librerias/alertify/css/alertify.css">
 <link rel="stylesheet" type="text/css" href="css/index.css">
 <link rel="stylesheet" type="text/css" href="css/sidebar.css">
+<link rel="stylesheet" type="text/css" href="css/contabilidad.css">
 <link rel="stylesheet" type="text/css" href="css/footer.css">
 
 

@@ -46,18 +46,6 @@
                 Contacto
                 </a>
               </li> 
-              <li class="nav-item ">
-                <a class="nav-link" href="https://es-la.facebook.com/lacostenamx/" target="_blank" role="button"><i class="fa fa-facebook fa-2x"></i></a>
-                </a>
-              </li> 
-              <li class="nav-item ">
-                <a class="nav-link" href="https://twitter.com/LaCostenaMx" target="_blank" role="button"><i class="fa fa-twitter fa-2x"></i></a>
-                </a>
-              </li> 
-              <li class="nav-item">
-                <a class="nav-link" href="https://www.instagram.com/lacostenamx/?hl=es-la" target="_blank"  role="button"><i class="fa fa-instagram fa-2x"></i></a>
-                </a>
-              </li> 
           </ul>
         </div>
       </nav>

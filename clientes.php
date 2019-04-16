@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
-<title>Crud stores</title>
+<title>Contabilidad</title>
 <head>
   <?php require_once "dependencias.php"; ?>
 
 </head>
 <body>
+<?php require_once "componentes/nav.php"; ?>
+<?php require_once "componentes/sidebar.php"; ?>
 	<div class="container">
 		<br>
 		<h1>Registro de clientes</h1>

@@ -64,7 +64,7 @@
 	            <div id="success"></div>
 	            <div class="form-group text-center">
 	            	<!--Agregar estilo de boton-->
-	              <button type="submit" class="btn btn-default btn-block bg-success " id="sendMessageButton">Enviar</button>
+	              <button type="submit" class="btn btn-default btn-block bg-success text-white" id="sendMessageButton">Enviar</button>
 	            </div>
 	          </form>
 	        </div>

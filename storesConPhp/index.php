@@ -1,16 +1,18 @@
+
+
+
 <!DOCTYPE html>
 <html>
-<title>Contabilidad</title>
+<title>Crud stores</title>
 <head>
   <?php require_once "dependencias.php"; ?>
 
 </head>
 <body>
-<?php require_once "componentes/nav.php"; ?>
-<?php require_once "componentes/sidebar.php"; ?>
-	<div class="container mt-5">
-	
-		<h1>Añadir Venta </h1>
+
+	<div class="container">
+		<br>
+		<h1>CRUD con store procedures y php Facultad Autodidacta</h1>
 		<hr>
 		<div class="row">
 			<div class="col-sm-12">
@@ -25,7 +27,7 @@
     <div class="modal-dialog modal-sm" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">Agregar nuevo cliente</h5>
+          <h5 class="modal-title" id="exampleModalLabel">Agregar nuevo juego</h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
@@ -42,7 +44,7 @@
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
-          <button type="button" class="btn btn-raised btn-primary bg-primary" id="btnAgregarJuego">Agregar</button>
+          <button type="button" class="btn btn-raised btn-primary" id="btnAgregarJuego">Agregar</button>
         </div>
       </div>
     </div>
@@ -73,14 +75,14 @@
           </form>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-secondary bg-secondary" data-dismiss="modal">Cerrar</button>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
           <button type="button" class="btn btn-raised btn-warning" id="btnactualizar">Actualizar</button>
         </div>
       </div>
     </div>
   </div>
   <!--************************************************* updatemodal ***********************************************-->
-  <!-- <script src="funciones.js"></script> -->
+  <script src="funciones.js"></script>
 </body>
 </html>
 

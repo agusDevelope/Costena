@@ -10,7 +10,7 @@
 <?php require_once "componentes/sidebar.php"; ?>
 	<div class="container mt-5">
 	
-		<h1>Registro de clientes</h1>
+		<h1>Añadir Banco</h1>
 		<hr>
 		<div class="row">
 			<div class="col-sm-12">

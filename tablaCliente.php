@@ -8,7 +8,7 @@
 	$result=mysqli_query($conexion,$sql);
  ?>
 
-<span class="btn btn-raised btn-primary btn-lg" data-toggle="modal" data-target="#addmodal">
+<span class="btn btn-raised btn-primary btn-lg bg-primary" data-toggle="modal" data-target="#addmodal">
 			<span class="fa fa-plus-circle"></span> agrega nuevo
 		</span>
 

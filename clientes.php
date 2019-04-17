@@ -42,7 +42,7 @@
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
-          <button type="button" class="btn btn-raised btn-primary" id="btnAgregarJuego">Agregar</button>
+          <button type="button" class="btn btn-raised btn-primary bg-primary" id="btnAgregarJuego">Agregar</button>
         </div>
       </div>
     </div>

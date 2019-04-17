@@ -5,59 +5,38 @@
 </head>
 <body>
 <?php require_once "componentes/nav.php"; ?>
-
-<section class="content-section mt-5 mb-5" id="galeria">
-        <div class="container-fluid">
           
           
           
-          <div class="row no-gutters popup-gallery">     
-            <div class="col-lg-4 col-sm-6">
-              <a class="galeria-box"  href="http://localhost/costena/clientes.php">
-                <img class="img-fluid justify-content-center btn btn-primary" src="imagenes_portal/juridico.jpg" alt="" width="300px" height="300px">
-                <div class="galeria-box-caption">
-                  <div class="galeria-box-caption-content">
-                    <div class="project-category text-faded">
-                        GERENCIA GENERAL
-                    </div>
-                    <!-- <div class="project-name">
-                      Avanzado
-                    </div> -->
-                  </div>
+        <div class="container mt-5 mb-5">
+<h1 class="text-center mt-5 mb-5 ">Módulo de Contabilidad</h1>
+    <div class="row">
+        <div class="col-md-4 ">
+            <div class="card text-center" style="width: 23rem;">
+            <img class="card-img-top" src="images/clients.png" alt="Card image cap">
+                <div class="card-body bg-secondary text-dark">
+                    <a href="http://localhost/costena/clientes.php" class="btn btn-primary btn-raised btn-block bg-primary">CLIENTES</a>
                 </div>
-              </a>
             </div>
-            <div class="col-lg-4 col-sm-6">
-              <a class="galeria-box" href="http://localhost/portalCap/ggeneral.php">
-                <img class="img-fluid" src="imagenes_portal/cj.png" alt="">
-                <div class="galeria-box-caption">
-                  <div class="galeria-box-caption-content">
-                    <div class="project-category text-faded">
-                       GERENCIA DE PRESTACIONES
-                    </div>
-                    <!-- <div class="project-name">
-                      Básico
-                    </div> -->
-                  </div>
+        </div>
+        <div class="col-md-4">
+        <div class="card text-center bg-secondary text-dark" style="width: 23rem;">
+            <img class="card-img-top" src="images/caja.png" alt="Card image cap">
+                <div class="card-body bg-secondary text-dark">
+                    <a href="http://localhost/costena/distribuidores.php" class="btn btn-primary btn-raised btn-block bg-primary">BANCOS</a>
                 </div>
-              </a>
             </div>
-            <div class="col-lg-4 col-sm-6">
-              <a class="galeria-box" href="http://localhost/portalCap/ggeneral.php">
-                <img class="img-fluid" src="imagenes_portal/cj.png" alt="">
-                <div class="galeria-box-caption">
-                  <div class="galeria-box-caption-content">
-                    <div class="project-category text-faded">
-                        FINANZAS E INFORMÁTICA
-                    </div>
-                    <!-- <div class="project-name">
-                      Avanzado
-                    </div> -->
-                  </div>
+        </div>
+        <div class="col-md-4">
+        <div class="card text-center" style="width: 23rem;">
+            <img class="card-img-top" src="images/sellss.jpg" alt="Card image cap">
+                <div class="card-body bg-secondary text-dark" style="background-color:#ffc400;">
+                    <a href="http://localhost/costena/productoAlm.php" class="btn btn-primary btn-raised btn-block bg-primary">VENTAS</a>
                 </div>
-              </a>
             </div>
-      </section>
+        </div>
+    </div>
+</div>
 
 
     <script src="js/bootstrap.js"></script>
